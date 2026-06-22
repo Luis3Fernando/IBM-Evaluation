@@ -2,6 +2,7 @@
 
 Agradecemos su interés en colaborar en este proyecto. Para mantener la calidad del software y un flujo de trabajo organizado, se aceptan todas las contribuciones a través de las siguientes modalidades:
 
+Se aceptan todas las contribuciones, informes de errores, correcciones de errores, mejoras en la documentación, mejoras y ideas.
 ---
 
 ## Tipos de Contribución Aceptados
